@@ -5,7 +5,6 @@
   <h1><b>TDD Solver Project</b></h1><a name="about-project"></a>
 </div>
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -35,12 +34,12 @@
 
 > This is an App which allow you to solve factorials, reverse words, and solve fizzbuzz challenge using Test-Driven Development.
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > The site was built with Ruby using TDD.
+
 <details>
   <summary>Client</summary>
   <ul>
@@ -66,7 +65,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -77,17 +75,13 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-
-
 ```sh
 gem install ruby
 ```
 
-
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 ```sh
   cd my-folder
@@ -97,7 +91,6 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-
 
 ```sh
   cd FizzBuzz_TDD
@@ -119,21 +112,21 @@ To run tests, run the following command:
 rspec --force-color --format documentation
 ```
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Yousef Badr**
+👤 **yousef badr**
 
-- GitHub: [@SergioPeralta22](https://github.com/ybadr99)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/yousef-mahamed-badr)
+- GitHub: [@ybadr99](https://github.com/ybadr99)
+- LinkedIn: [yousef badr](https://www.linkedin.com/in/yousef-mohamed-badr)
 
+👤 **Sumeya Ibrahim**
 
-
+- GitHub: [@isume295](https://github.com/isume295)
+- LinkedIn: [@isume295](https://www.linkedin.com/in/sumeya-ibrahim)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +154,6 @@ Feel free to check the [issues page](https://github.com/ybadr99/FizzBuzz_TDD/iss
 
 If you like this project,please give it a ⭐️!
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -180,8 +172,6 @@ I would like to thank Microverse for giving me the opportunity to learn and grow
 
   - [ ] **Yes, you can.**
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
@@ -189,6 +179,5 @@ I would like to thank Microverse for giving me the opportunity to learn and grow
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
