@@ -1,4 +1,4 @@
-
+require_relative '../solver'
 RSpec.describe Solver do
   solve = Solver.new
   describe '#factorial' do
